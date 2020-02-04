@@ -9,7 +9,7 @@ This example illustrates a general method to apply a one-off patch to EAP runnin
 
 - Running OpenShift cluster (Tested on v4.2)
 - EAP running on OpenShift (Tested on v7.1.5)
-- EAP patch file (Can be downloaded on [Red Hat Product Download](https://access.redhat.com/downloads/))
+- EAP patch file (Can be downloaded on [Red Hat Product Download](https://access.redhat.com/downloads/)), this example uses jbeap-16108.zip which is in the repository
 
 ## Basic instructions
 
